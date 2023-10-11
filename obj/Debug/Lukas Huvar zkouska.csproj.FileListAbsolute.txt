@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\bin\Debug\Lukas Huvar zkouska.exe.config
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\bin\Debug\Lukas Huvar zkouska.exe
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\bin\Debug\Lukas Huvar zkouska.pdb
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas Huvar zkouska.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas_Huvar_zkouska.FormTest.resources
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas_Huvar_zkouska.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas Huvar zkouska.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas Huvar zkouska.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas Huvar zkouska.exe
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\Zkouska\Lukas Huvar zkouska\obj\Debug\Lukas Huvar zkouska.pdb
